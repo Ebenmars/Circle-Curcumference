@@ -1,0 +1,1 @@
+printf("\nThe Diameter of the circle is: %lf", diameter);
